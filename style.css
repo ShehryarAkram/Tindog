@@ -20,7 +20,7 @@ h1{
     line-height: 1.5;
 }
 h2{
-    font-faborder-radius: 2;mily: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 3.5rem;
     line-height: 1.5;
 }
@@ -50,6 +50,7 @@ p{
 /* Download buttons */
 .download-button{
     margin: 5% 3% 5% 0;
+    font-family: 'ubuntu';
 }
     /* Title image */
 .title-image{
